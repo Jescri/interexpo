@@ -8,13 +8,15 @@
       "styling": {},
       "additionalSetColors": [
         "#f5ca2a",
-        "#a6a5a5"
+        "#a6a5a5",
+        "#3c3c3c"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 16,
-    "versionPublish": "4.7.2"
+    "uniqCompNum": 22,
+    "versionPublish": "4.7.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -30,11 +32,11 @@
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": false,
+            "showBullets": true,
             "bgColor": "#fac51c",
             "slides": [
               {
@@ -64,15 +66,15 @@
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/logo-interexpo-01-1-2000x1562.png",
+                "image": "@PROJECT_PATH@/assets/images/logo-interexpo-slider-1024x800.jpg",
                 "active": true,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RESERVE LA FECHA PARA LLEVARLOS</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RESERVE LA FECHA AHORA</a>",
                 "overlay": false
               }
             ]
@@ -218,51 +220,67 @@
           "_anchor": "msg-box4-4"
         },
         {
-          "_inherit": "msg-box3",
           "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
+            ".mbr-header__text": {
+              "color": "#ffffff"
             },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": false,
             "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-interexpo-bien-rectangular-1-2000x392.png",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-interexpo-1-1024x800.jpg",
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
             "overlay": false,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "EASY TO USE!",
-          "text": "",
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-interexpo-bien-rectangular-2-1400x513.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-6"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-k"
         },
         {
           "_inherit": "msg-box5",
@@ -561,51 +579,69 @@
           "_anchor": "msg-box4-a"
         },
         {
-          "_inherit": "msg-box3",
           "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "17px",
+              "text-align": "right"
             },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#ffffff"
             }
           },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-interexpo-bien-rectangular-2-1-1431x320.png",
-            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-interexpo-1-1024x800.jpg",
+            "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
             "overlay": false,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
           },
-          "title": "",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "headerAlign": "right",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-interexpo-bien-rectangular-2-1400x513.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-b"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-j"
         },
         {
           "_styles": {
@@ -657,51 +693,67 @@
           "_anchor": "msg-box3-c"
         },
         {
-          "_inherit": "msg-box3",
           "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
+            ".mbr-header__text": {
+              "color": "#ffffff"
             },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#fff"
+              "color": "#ffffff"
             }
           },
           "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showCaption": "noCaption",
+            "showTitle": false,
+            "showMeta": false,
             "showText": false,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "4",
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "60",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/logo-interesante-bien-rectangular-1-1431x280.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/background-amarillo-471x92.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#3c3c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "darkBackground": true,
             "overlay": false,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/logo-interesante-1400x274.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "meta": "",
-          "_name": "content5",
-          "_anchor": "content5-d"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-l"
         },
         {
           "_styles": {
@@ -745,7 +797,7 @@
           "title": "<span style=\"font-weight: normal;\">ORGANICE SU PROPIO GRUPO DE ESTUDIANTES Y CONFIRME SU PARTICIPACIÓN AHORA AL</span>&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>787-203-6303 o 787-766-1912</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MÁS INFO</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MÁS INFO</a> ",
           "_tags": [
             "Theme"
           ],

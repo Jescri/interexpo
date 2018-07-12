@@ -35,16 +35,14 @@
   color: #41a85f;
   font-size: 22px;
 }
-#content5-6 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+#msg-box5-k .mbr-header__text {
+  color: #ffffff;
 }
-#content5-6 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+#msg-box5-k .mbr-header__subtext {
+  color: #ffffff;
 }
-#content5-6 .mbr-article {
-  color: #fff;
+#msg-box5-k .mbr-article {
+  color: #ffffff;
 }
 #msg-box4-7 .mbr-header__text {
   color: #a6a5a5;
@@ -106,16 +104,16 @@
   color: #41a85f;
   font-size: 22px;
 }
-#content5-b .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+#msg-box5-j .mbr-header__text {
+  color: #ffffff;
+  font-size: 17px;
+  text-align: right;
 }
-#content5-b .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+#msg-box5-j .mbr-header__subtext {
+  color: #ffffff;
 }
-#content5-b .mbr-article {
-  color: #fff;
+#msg-box5-j .mbr-article {
+  color: #ffffff;
 }
 #msg-box3-c .mbr-header .mbr-header__text {
   text-align: center;
@@ -130,16 +128,14 @@
   font-family: 'Montserrat', sans-serif;
   color: #41a85f;
 }
-#content5-d .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
+#msg-box5-l .mbr-header__text {
+  color: #ffffff;
 }
-#content5-d .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
+#msg-box5-l .mbr-header__subtext {
+  color: #ffffff;
 }
-#content5-d .mbr-article {
-  color: #fff;
+#msg-box5-l .mbr-article {
+  color: #ffffff;
 }
 #msg-box3-f .mbr-header .mbr-header__text {
   text-align: center;
