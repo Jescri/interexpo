@@ -63,7 +63,7 @@
                 "title": "SABEMOS<br>HACIA DONDE QUEREMOS LLEVARLOS",
                 "contentAlign": "left",
                 "text": "LE INVITAMOS A EXPLORAR Y CONECTAR SUS ESTUDIANTES CON UNA VIDA UNIVERSITARIA INTEResante",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE</a>  ",
                 "overlay": true,
                 "overlayOpacity": "0.5"
               },
