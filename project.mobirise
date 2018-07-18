@@ -9,7 +9,9 @@
       "additionalSetColors": [
         "#f5ca2a",
         "#a6a5a5",
-        "#3c3c3c"
+        "#3c3c3c",
+        "#dddfdf",
+        "#8c8b8b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -61,7 +63,7 @@
                 "title": "SABEMOS<br>HACIA DONDE QUEREMOS LLEVARLOS",
                 "contentAlign": "left",
                 "text": "LE INVITAMOS A EXPLORAR Y CONECTAR SUS ESTUDIANTES CON UNA VIDA UNIVERSITARIA INTEResante",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MAS INFO</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE</a>  ",
                 "overlay": true,
                 "overlayOpacity": "0.5"
               },
@@ -235,7 +237,7 @@
             "showTitle": false,
             "showMeta": false,
             "showText": false,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": 3,
@@ -275,7 +277,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://wwwinterexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
@@ -297,7 +299,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#dddfdf",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -335,7 +337,7 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#a6a5a5",
+              "color": "#8c8b8b",
               "font-size": "36px",
               "text-align": "right"
             },
@@ -445,7 +447,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#dddfdf",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -732,10 +734,11 @@
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/logo-interesante-1400x274.png",
-              "link": "",
+              "link": "http://interexpopr.com",
               "alt": "",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -797,7 +800,7 @@
           "title": "<span style=\"font-weight: normal;\">ORGANICE SU PROPIO GRUPO DE ESTUDIANTES Y CONFIRME SU PARTICIPACIÓN AHORA AL</span>&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>787-203-6303 o 787-766-1912</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MÁS INFO</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MÁS INFO</a> ",
           "_tags": [
             "Theme"
           ],
@@ -834,7 +837,7 @@
             }
           },
           "text1": "",
-          "text2": "<strong>CONTACTS</strong><br>\nEmail: info@interexpopr.com<br>\n787-203-6303<br>\n787-766-1912",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail:&nbsp;<br>\n787-203-6303<br>\n787-766-1912",
           "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>www.interexpopr.com</li></ul>",
           "_tags": [
             "Theme"
