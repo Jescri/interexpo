@@ -277,7 +277,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://wwwinterexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
@@ -598,7 +598,7 @@
             "showTitle": false,
             "showMeta": false,
             "showText": false,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": "60",
             "paddingTop": "2",
@@ -638,7 +638,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
@@ -710,7 +710,7 @@
             "showTitle": false,
             "showMeta": false,
             "showText": false,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": true,
             "imageSize": "60",
             "paddingTop": "1",
@@ -751,7 +751,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
