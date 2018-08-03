@@ -42,7 +42,7 @@
             "bgColor": "#fac51c",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/6g8a6303-rev-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/foto-empleabilidad-y-otra-juntas-copy-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -52,11 +52,11 @@
                 "text": "EL FUTURO UNIVERSITARIO DE SUS ESTUDIANTES",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
-                "overlayOpacity": "0.3"
+                "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/6g8a0606-rev-low-864x576.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -65,11 +65,11 @@
                 "text": "LE INVITAMOS A EXPLORAR Y CONECTAR SUS ESTUDIANTES CON UNA VIDA UNIVERSITARIA INTEResante",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE</a>  ",
                 "overlay": true,
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/logo-interexpo-slider-1024x800.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -89,7 +89,11 @@
           "_anchor": "slider-2",
           "_styles": {
             "H1": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
           }
         },
@@ -751,7 +755,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
