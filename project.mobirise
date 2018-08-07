@@ -44,39 +44,39 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/foto-empleabilidad-y-otra-juntas-copy-2000x1333.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "SABEMOS LO IMPORTANTE QUE ES PARA USTED",
-                "contentAlign": "right",
+                "contentAlign": "center",
                 "text": "EL FUTURO UNIVERSITARIO DE SUS ESTUDIANTES",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\">REGÍSTRATE AQUí</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.2"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/6g8a0606-rev-low-864x576.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "SABEMOS<br>HACIA DONDE QUEREMOS LLEVARLOS",
                 "contentAlign": "left",
                 "text": "LE INVITAMOS A EXPLORAR Y CONECTAR SUS ESTUDIANTES CON UNA VIDA UNIVERSITARIA INTEResante",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE AQUÍ</a>  ",
                 "overlay": true,
                 "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/logo-interexpo-slider-1024x800.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": false,
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.inter.edu\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RESERVE LA FECHA AHORA</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
                 "overlay": false
               }
             ]
@@ -103,10 +103,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#f5ca2a"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#f5ca2a"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
               "color": "#41a85f"
@@ -121,10 +121,10 @@
             "logo": true,
             "showBrand": false,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#f5ca2a",
+            "color": "#ffffff",
             "hamburgerColor": "#41a85f"
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#slider-2\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#content5-b\">INTEREXPO</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-e\">CONTACT</a></li>",
@@ -132,7 +132,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/icono-inter-85x128.png",
+              "src": "@PROJECT_PATH@/assets/images/interexpo-logo-605x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -642,7 +642,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
@@ -755,7 +755,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"http://www.interexpopr.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
