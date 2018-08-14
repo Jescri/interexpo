@@ -42,8 +42,8 @@
             "bgColor": "#fac51c",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/foto-empleabilidad-y-otra-juntas-copy-2000x1333.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/foto-empleabilidad-y-otra-juntas-2000x1333.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -69,7 +69,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/logo-interexpo-update3-1-1024x800.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
