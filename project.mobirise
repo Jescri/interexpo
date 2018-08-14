@@ -50,7 +50,7 @@
                 "title": "SABEMOS LO IMPORTANTE QUE ES PARA USTED",
                 "contentAlign": "center",
                 "text": "EL FUTURO UNIVERSITARIO DE SUS ESTUDIANTES",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\">REGÍSTRATE AQUí</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\">REGÍSTRATE AQUí</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.2"
               },
@@ -63,7 +63,7 @@
                 "title": "SABEMOS<br>HACIA DONDE QUEREMOS LLEVARLOS",
                 "contentAlign": "left",
                 "text": "LE INVITAMOS A EXPLORAR Y CONECTAR SUS ESTUDIANTES CON UNA VIDA UNIVERSITARIA INTEResante",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE AQUÍ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGíSTRATE AQUÍ</a>  ",
                 "overlay": true,
                 "overlayOpacity": "0.3"
               },
@@ -76,7 +76,7 @@
                 "title": "Slide 3",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
                 "overlay": false
               }
             ]
@@ -281,7 +281,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
@@ -642,7 +642,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
@@ -755,7 +755,7 @@
           "title": "VIDEO EMBED",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGÍSTRATE AQUÍ</a>",
           "_tags": [
             "Theme"
           ],
@@ -804,7 +804,7 @@
           "title": "<span style=\"font-weight: normal;\">ORGANICE SU PROPIO GRUPO DE ESTUDIANTES Y CONFIRME SU PARTICIPACIÓN AHORA AL</span>&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>787-203-6303 o 787-766-1912</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/81615516428862\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MÁS INFO</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MÁS INFO</a> ",
           "_tags": [
             "Theme"
           ],
@@ -830,9 +830,10 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "https://form.jotform.co/82218789907876",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
