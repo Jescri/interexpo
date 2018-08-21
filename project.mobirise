@@ -47,9 +47,9 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "SABEMOS LO IMPORTANTE QUE ES PARA USTED",
+                "title": "<br>FALTA POCO PARA LA PRIMERA FERIA TOTALMENTE INTERACTIVA<br>INTEREXPO",
                 "contentAlign": "center",
-                "text": "EL FUTURO UNIVERSITARIO DE SUS ESTUDIANTES",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://form.jotform.co/82218789907876\" data-toolbar=\"-mbrBtnMove\">REGÍSTRATE AQUí</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.2"
@@ -198,7 +198,7 @@
               "size": 0
             }
           },
-          "title": "PABELLONES<br>TEMÁTICOS",
+          "title": "PABELLONES<br>TEMÁTICOS Y MÁS <br>DE 100 EXHIBICIONES",
           "text": "<p>Donde se presentan los distintos programas universitarios y profesionales de forma interactiva</p>",
           "_tags": [
             "Theme"
