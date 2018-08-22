@@ -43,7 +43,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/foto-empleabilidad-y-otra-juntas-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -56,7 +56,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/6g8a0606-rev-low-864x576.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -199,7 +199,7 @@
             }
           },
           "title": "10 PABELLONES TEMÁTICOS Y MÁS <br>DE 100 EXHIBICIONES Y PRESENTACIONES",
-          "text": "<p>Donde podrás participar de distintos programas universitarios y profesionales de forma interactiva</p>",
+          "text": "<p>Donde podrán participar de distintos programas universitarios y profesionales de forma interactiva</p>",
           "_tags": [
             "Theme"
           ],
